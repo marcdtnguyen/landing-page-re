@@ -60,3 +60,16 @@ nav a {
     color: #F9FAF8;
     display: inline-block;
 }
+
+.rand h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.rand .img {
+    width: 100px;
+    height: 100px;
+    border: #3882F6 solid 2px;
+    border-radius: 10px;
+}
