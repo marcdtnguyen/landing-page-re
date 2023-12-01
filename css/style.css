@@ -54,3 +54,9 @@ nav a {
     padding: 0.5rem 1rem;
     border-radius: 3px;
 }
+
+.hero div {
+    background-color: grey;
+    color: #F9FAF8;
+    display: inline-block;
+}
