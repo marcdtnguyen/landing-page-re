@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: monospace;
+}
+
+nav,
+ul {
+    display: flex;
+}
+
+nav {
+    justify-content: space-between;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+nav,
+.hero,
+footer {
+    background-color: #1F2937;
+}
+
+.hero aside,
+nav a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: #3882F6 solid 1px;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+}
