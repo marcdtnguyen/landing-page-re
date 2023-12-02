@@ -87,6 +87,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: "Roboto";
 }
@@ -98,6 +99,11 @@ ul {
 
 nav {
     justify-content: space-between;
+    padding: 1rem 30vh;
+}
+
+nav ul{
+    gap: 1.5rem;
 }
 
 nav li {
