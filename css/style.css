@@ -213,3 +213,32 @@ nav a {
     font-weight: 500;
     font-size: 1.5rem;
 }
+
+.sign-up {
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    margin: 6rem auto;
+    border-radius: 1rem;
+    background-color: #3882F6;
+    padding: 4rem 9rem;
+}
+
+.sign-up .text {
+    color: #F9FAF8;
+}
+
+.sign-up h3 {
+    font-size: 1.5rem;
+}
+
+.sign-up button {
+    background-color: #3882F6;
+    border: #F9FAF8 solid 2px;
+    color: #F9FAF8;
+    font-family: "Roboto";
+    font-size: 1rem;
+    padding: 0 2.5rem;
+    border-radius: 10px;
+    font-weight: 700;
+}
